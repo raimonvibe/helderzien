@@ -2,7 +2,7 @@
 
 A spiritual consultation service website for Anne-Mieke Baudoin, offering guidance and support for spiritual journeys and personal growth.
 
-![HelderzienHoorn Website](~/screenshots/raimonvibe_github_io_094033.png)
+![HelderzienHoorn Website](images/website-preview.png)
 
 🌐 **[Visit the live site](https://raimonvibe.github.io/helderzien/)**
 
